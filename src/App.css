@@ -1,3 +1,35 @@
 .App {
+  font-family: Arial, sans-serif;
   text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+}
+
+main {
+  padding: 20px;
+  padding-top: 80px;
+}
+
+.App-footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.homework02 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 }
