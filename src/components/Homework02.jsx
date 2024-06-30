@@ -3,19 +3,7 @@ import Card from './Card';
 
 const homerData = [
   {
-    avatar: "https://example.com/homer1.png",
-    name: "Homer Simpson",
-    occupation: "Safety Inspector at Springfield Nuclear Power Plant",
-    hobbies: "Drinking beer, watching TV, eating donuts"
-  },
-  {
-    avatar: "https://example.com/homer2.png",
-    name: "Homer Simpson",
-    occupation: "Safety Inspector at Springfield Nuclear Power Plant",
-    hobbies: "Drinking beer, watching TV, eating donuts"
-  },
-  {
-    avatar: "https://example.com/homer3.png",
+    avatar: "",
     name: "Homer Simpson",
     occupation: "Safety Inspector at Springfield Nuclear Power Plant",
     hobbies: "Drinking beer, watching TV, eating donuts"
