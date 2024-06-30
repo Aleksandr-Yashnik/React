@@ -1,15 +1,12 @@
-import "./styles.css";
+import React from 'react';
+import '../../components/Button/styles.css';
 
-function Button({ children, type, buttonName = "Send" }) {
-  const buttonClass = type === "Delete" ? "delete-button" : "main-button";
-  
+const Button = ({ name, type }) => {
   return (
-    <button className={`button-component ${buttonClass}`}>
-      {/* Children example */}
-      {/* {children} */}
-      {buttonName}
+    <button className="custom-button" type={type}>
+      {name}
     </button>
   );
-}
+};
 
 export default Button;

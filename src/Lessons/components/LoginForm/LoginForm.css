@@ -1,0 +1,27 @@
+.login-form {
+    width: 590px;
+    height: 450px;
+    padding: 60px;
+    gap: 30px;
+    border-radius: 4px;
+    top: -296px;
+    left: -295px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .login-form h2 {
+    font-size: 24px;
+    font-weight: 470px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+
+  
+  
+
+
+
+
