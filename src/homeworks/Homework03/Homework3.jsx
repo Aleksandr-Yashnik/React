@@ -1,10 +1,10 @@
 import React from 'react';
-import LoginForm from '../../Lessons/components/LoginForm/LoginForm';
-import '../Homework03/Homework3.css';
+import LoginForm from '../../components/LoginForm/LoginForm';
+import '../../homeworks/Homework03/styles.css';
 
 const Homework3 = () => {
   return (
-    <div className="homework3">
+    <div className="Homewokrk3">
       <LoginForm />
     </div>
   );

@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App";
 
 //Lessons
 // import Lesson02 from "./lessons/Lesson02/Lesson02";
@@ -7,7 +7,7 @@ import "./App.css";
 //Homeworks
 //import Homework02 from "../homeworks/Homework02/Homework02";
 
-import Homework3 from "../homeworks/Homework03/Homework3";
+import Homework3 from "../src/homeworks/Homework03/Homework3";
 function App() {
   return (
     <div className="App">
