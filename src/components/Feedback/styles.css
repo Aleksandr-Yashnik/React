@@ -1,0 +1,27 @@
+.feedback-container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feedback-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .feedback-button {
+    display: flex;
+    align-items: center;
+    margin: 0 10px;
+  }
+  
+  .feedback-count {
+    margin-left: 5px;
+    font-size: 18px;
+  }
+  
